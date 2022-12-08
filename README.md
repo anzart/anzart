@@ -26,6 +26,9 @@ colors:
  > 24292f
 -->
 
+- 🌱 I'm currently setting up a **community project**.
+- 👯 I’m looking to collaborate on **GitHub**.
+
 ## 💼 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-css3-black?&style=for-the-badge&logo=css3&logoColor=1572B6) ![React](https://img.shields.io/badge/-ReactJS-black?&style=for-the-badge&logo=react&logoColor=61DAFB) ![NextJS](https://img.shields.io/badge/next.js-000?&style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![NodeJS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![RxJS](https://img.shields.io/badge/Rx.JS-black?style=for-the-badge&logo=reactivex&logoColor=B7178C)
